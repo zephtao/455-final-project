@@ -30,7 +30,7 @@
 * Random inversion of the colors in an image with default probability of 50%
 * Color jitter: changes (“jitters”) the brightness, contrast, saturation, and hue of an image
 
-<img src="./random-rotations.png" alt="Alt Text" width="650" height="150">
+<img src="./random-rotations.png" alt="Alt Text" width="700" height="150">
 
 **Evaluation:**
 * Tested and compared different pretrained models
@@ -47,7 +47,7 @@
 ### 📉 Results -------------------------------------------------- <a name="results"></a>
 ![Results](./results-table.png)
 <img src="./efficientnet-plot.png" alt="Alt Text" width="500" height="375">
-<img src="./resnet-plot.png" alt="Alt Text" width="350" height="375">
+<img src="./resnet-plot.png" alt="Alt Text" width="380" height="375">
 
 **Best Result:**
 * Model: efficientnet_v2_l
