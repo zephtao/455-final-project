@@ -29,9 +29,11 @@ You can see our Kaggle notebook in bird-classifier.ipynb
 **Data Augmentation with torchvision Transforms:**
 * Random rotation with varying degrees
   * Parameter: degree range to randomly rotate an image to
-<img src="./random-rotations.png" alt="Alt Text" width="700" height="125">
 * Random inversion of the colors in an image with default probability of 50%
 * Color jitter: changes (“jitters”) the brightness, contrast, saturation, and hue of an image
+
+Random rotation of the bird images:
+<img src="./random-rotations.png" alt="Alt Text" width="700" height="125">
 
 **Evaluation:**
 * Tested and compared different pretrained models
