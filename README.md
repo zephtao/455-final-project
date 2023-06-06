@@ -46,8 +46,8 @@ Evaluation:
 
 ### 📉 Results <a name="results"></a>
 ![Results](./results-table.png)
-![efficientnet_v2_l](./efficientnet-plot.png)
-![resnet18](./resnet-plot.png)
+<img src="./efficientnet-plot.png" alt="Alt Text" width="300" height="250">
+<img src="./resnet-plot.png" alt="Alt Text" width="285" height="300">
 
 The best result was obtained using efficientnet_v2_l, yielding a test accuracy of 80.5% and a training accuracy of 98.38%.
 
