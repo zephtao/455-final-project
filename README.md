@@ -2,6 +2,8 @@
 
 ## Welcome to our bird classifier project! 🐦🐦‍⬛🐥🦆🦅🦉
 
+You can see our Kaggle notebook in bird-classifier.ipynb
+
 ### 📝 Contents
 * [Problem Statement](#problem-statement)
 * [Approach](#approach)
