@@ -30,7 +30,7 @@ Data Augmentation with torchvision Transforms:
 * Random inversion of the colors in an image with default probability of 50%
 * Color jitter: changes (“jitters”) the brightness, contrast, saturation, and hue of an image
 
-![Random rotation of the bird images](./random-rotations.png)
+<img src="./random-rotations.png" alt="Alt Text" width="600" height="150">
 
 Evaluation:
 * Tested and compared different pretrained models
@@ -46,9 +46,8 @@ Evaluation:
 
 ### 📉 Results <a name="results"></a>
 ![Results](./results-table.png)
-<img src="./efficientnet-plot.png" alt="Alt Text" width="300" height="250">
-<br>
-<img src="./resnet-plot.png" alt="Alt Text" width="285" height="300">
+<img src="./efficientnet-plot.png" alt="Alt Text" width="500" height="375">
+<img src="./resnet-plot.png" alt="Alt Text" width="300" height="375">
 
 The best result was obtained using efficientnet_v2_l, yielding a test accuracy of 80.5% and a training accuracy of 98.38%.
 
