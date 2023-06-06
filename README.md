@@ -47,7 +47,7 @@
 ### 📉 Results -------------------------------------------------- <a name="results"></a>
 ![Results](./results-table.png)
 <img src="./efficientnet-plot.png" alt="Alt Text" width="500" height="375">
-<img src="./resnet-plot.png" alt="Alt Text" width="380" height="375">
+<img src="./resnet-plot.png" alt="Alt Text" width="400" height="375">
 
 **Best Result:**
 * Model: efficientnet_v2_l
