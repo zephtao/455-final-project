@@ -49,7 +49,10 @@ Evaluation:
 <img src="./efficientnet-plot.png" alt="Alt Text" width="500" height="375">
 <img src="./resnet-plot.png" alt="Alt Text" width="350" height="375">
 
-The best result was obtained using efficientnet_v2_l, yielding a test accuracy of 80.5% and a training accuracy of 98.38%.
+Best Result:
+* Model: efficientnet_v2_l
+* Test accuracy: 80.5%
+* Train accuracy: 98.38%
 
 Analysis:
 * Between efficientnet_v2_l, resnet18, and darknet64, the model that yielded the highest accuracies was efficientnet_v2_l.
