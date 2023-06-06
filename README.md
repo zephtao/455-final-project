@@ -74,7 +74,7 @@
 * Isolate data augmentation methods to understand the specific effect of each one
 * Implement dropout to help with overfitting
 
-### Team Members <a name="team"></a>
+### 👩‍💻👨‍💻 Team Members -------------------------------------------------- <a name="team"></a>
 * Rachel Alwan
 * Alamjit Choat
 * Gautam Maybhate
