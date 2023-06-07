@@ -2,7 +2,7 @@
 
 ## Welcome to our bird classifier project! 🐦🐦‍⬛🐥🦆🦅🦉
 
-View our Kaggle notebook in `bird-classifier.ipynb`
+View our Kaggle notebook in `bird-classifier.ipynb` and view the notebook's outputs in `bird-classifier-final-outputs.ipynb`
 
 ### 📝 Contents
 * [Video](#video)
