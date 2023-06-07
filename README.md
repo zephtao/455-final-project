@@ -9,7 +9,8 @@ You can see our Kaggle notebook in bird-classifier.ipynb
 * [Approach](#approach)
 * [Dataset](#dataset)
 * [Results](#results)
-* [Discusssion](#discussion)
+* [Discussion](#discussion)
+* [Resources](#resources)
 * [Team Members](#team)
 
 ### ❓ Problem Statement ------------------------------------------------------------ <a name="problem-statement"></a>
@@ -79,7 +80,7 @@ You can see our Kaggle notebook in bird-classifier.ipynb
 * Isolate data augmentation methods to understand the specific effect of each one
 * Implement dropout to help with overfitting
 
-### Resources ------------------------------------------------------------ <a name="team"></a>
+### 🤓 Resources ------------------------------------------------------------ <a name="resources"></a>
 * [ImageNet and Transfer Learning](https://colab.research.google.com/drive/1EBz4feoaUvz-o_yeMI27LEQBkvrXNc_4?usp=sharing)
 * [Transfer Learning to Birds](https://colab.research.google.com/drive/1kHo8VT-onDxbtS3FM77VImG35h_K_Lav?usp=sharing)
 * [EfficientNet](https://pytorch.org/hub/nvidia_deeplearningexamples_efficientnet/)
