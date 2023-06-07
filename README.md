@@ -80,8 +80,8 @@ You can see our Kaggle notebook in bird-classifier.ipynb
 * Implement dropout to help with overfitting
 
 ### Resources ------------------------------------------------------------ <a name="team"></a>
-* https://colab.research.google.com/drive/1EBz4feoaUvz-o_yeMI27LEQBkvrXNc_4?usp=sharing
-* https://colab.research.google.com/drive/1kHo8VT-onDxbtS3FM77VImG35h_K_Lav?usp=sharing
+* [ImageNet and Transfer Learning](https://colab.research.google.com/drive/1EBz4feoaUvz-o_yeMI27LEQBkvrXNc_4?usp=sharing)
+* [Transfer Learning to Birds](https://colab.research.google.com/drive/1kHo8VT-onDxbtS3FM77VImG35h_K_Lav?usp=sharing)
 * https://pytorch.org/hub/nvidia_deeplearningexamples_efficientnet/ 
 
 ### 👩‍💻👨‍💻 Team Members ------------------------------------------------------------ <a name="team"></a>
