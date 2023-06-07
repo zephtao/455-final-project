@@ -4,6 +4,8 @@
 
 You can see our Kaggle notebook in bird-classifier.ipynb
 
+### [Video](https://washington.zoom.us/rec/play/1ItdNdfXBQ5TZxaUZB-Wbwet0F947fXXPcoM3jWfdd4bF5GuIL2R7joAiDhNyoRHM43I5z6DUgSwECpO.0uyjmT7yHKNUq-Zx?autoplay=true&startTime=1686105507000)
+
 ### 📝 Contents
 * [Problem Statement](#problem-statement)
 * [Approach](#approach)
