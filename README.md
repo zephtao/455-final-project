@@ -1,4 +1,4 @@
-# 455-final-project
+# 455 Final Project
 
 ## Welcome to our bird classifier project! 🐦🐦‍⬛🐥🦆🦅🦉
 
