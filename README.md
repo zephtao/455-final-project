@@ -67,7 +67,10 @@ You can see our Kaggle notebook in bird-classifier.ipynb
 * The Kaggle notebook interface was not the most efficient to work with, since we were unable to collaborate live on the same notebook.
 
 **Uniqueness of Approach:**
-* TODO
+* We believe our approach was unique because in addition to trying several different models, we also tried several different data augmentation technqiues
+* Specifically, we experimented with RandomRotation, RandomInvert, ColorJitter, and RandomEqualize
+* Though we experimented, we were surprised to see that any combination data augmentation did not have a very positive effect on the final accuracy
+* In addition, we researched and found the pretrained model that worked the best for our application (EfficientNet), rather than just picking one and trying to improve on it
 
 **Next Steps:**
 * Further tuning of hyperparameters
