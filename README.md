@@ -2,11 +2,10 @@
 
 ## Welcome to our bird classifier project! 🐦🐦‍⬛🐥🦆🦅🦉
 
-You can see our Kaggle notebook in bird-classifier.ipynb
-
-### [Video](https://washington.zoom.us/rec/play/1ItdNdfXBQ5TZxaUZB-Wbwet0F947fXXPcoM3jWfdd4bF5GuIL2R7joAiDhNyoRHM43I5z6DUgSwECpO.0uyjmT7yHKNUq-Zx?autoplay=true&startTime=1686105507000)
+View our Kaggle notebook in bird-classifier.ipynb
 
 ### 📝 Contents
+* [Video](#video)
 * [Problem Statement](#problem-statement)
 * [Approach](#approach)
 * [Dataset](#dataset)
@@ -14,6 +13,8 @@ You can see our Kaggle notebook in bird-classifier.ipynb
 * [Discussion](#discussion)
 * [Resources](#resources)
 * [Team Members](#team)
+
+### [Video](https://washington.zoom.us/rec/play/1ItdNdfXBQ5TZxaUZB-Wbwet0F947fXXPcoM3jWfdd4bF5GuIL2R7joAiDhNyoRHM43I5z6DUgSwECpO.0uyjmT7yHKNUq-Zx?autoplay=true&startTime=1686105507000) ------------------------------------------------------------ <a name="video"></a>
 
 ### ❓ Problem Statement ------------------------------------------------------------ <a name="problem-statement"></a>
 * We decided to enter the class’s [bird classification challenge](https://www.kaggle.com/competitions/birds23sp) on Kaggle, where the task is to classify different bird species given images of birds as input.
