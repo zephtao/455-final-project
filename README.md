@@ -51,6 +51,7 @@ You can see our Kaggle notebook in bird-classifier.ipynb
 ![Results](./results-table.png)
 <img src="./efficientnet-plot.png" alt="Alt Text" width="500" height="375">
 <img src="./resnet-plot.png" alt="Alt Text" width="400" height="375">
+<img src="./decay-results.png" alt="Alt Text" width="900" height="400">
 
 **Best Result:**
 * Model: efficientnet_v2_l
